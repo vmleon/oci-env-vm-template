@@ -27,7 +27,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-README.md
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar

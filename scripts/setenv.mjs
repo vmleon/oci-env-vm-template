@@ -23,7 +23,7 @@ await setTenancyEnv();
 await setNamespaceEnv();
 await setRegionEnv();
 await setCompartmentEnv();
-await createSSHKeys("genai");
+await createSSHKeys("envvm");
 await createCerts();
 
 async function setTenancyEnv() {

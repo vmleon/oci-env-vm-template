@@ -14,7 +14,7 @@ The functions are:
 - OCI CLI installed and configured. Test it with `oci os ns get`
 - Node.js v15+
 
-## Set up environment
+## Set up environment
 
 ```bash
 cd scripts/ && npm init -y && npm install && cd ..
